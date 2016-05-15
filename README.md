@@ -7,3 +7,5 @@ I added this line after the first staging.
 ##Github Modifications
 I added this line on github.
 Another github line.GEtting betteeer.
+##Local changes
+These changes were made locally while other changes were made on the master branch online
